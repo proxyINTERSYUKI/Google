@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: google.1118
     env: docker
     plan: free
